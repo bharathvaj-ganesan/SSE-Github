@@ -1,10 +1,12 @@
 # sse-dashboard
 
-> My funkadelic Nuxt.js project
+![Preview Image](sse.JPG)
+
+> Add `PORT`and `GITHUB_KEY` in .env file.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
